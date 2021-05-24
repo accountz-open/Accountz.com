@@ -12,7 +12,7 @@ Help guides are available here until 16/07/2021 at that point the pages will be 
 
 <http://homehelp.accountz.com/>
 
-If you would like information regarding the forthcoming Open Source version (not owned or associated to Accountz.com Ltd), please see here: 
+If you would like information regarding the forthcoming **Open Source version** (not owned or associated to Accountz.com Ltd), please see go to <https://accountz.org/> 
 
 *The Accountz Team*
 
