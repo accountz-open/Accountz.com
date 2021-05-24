@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+**Sadly Accountz.com Ltd has now ceased trading.**
 
-You can use the [editor on GitHub](https://github.com/Accountz-DEV/Accountz.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Should you need to re-install your existing software (Home Accountz V3, Startup Kit, Startup Kit+VAT or Business Suite), below is the link to the installers:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<http://download.accountz.co.org>
 
-### Markdown
+We are no longer able to take telephone calls, if you have any queries please email support@accountz.com prior to 16/07/2021.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Help guides are available here until 16/07/2021 at that point the pages will be retired and no longer available.
 
-```markdown
-Syntax highlighted code block
+<http://businesshelp.accountz.com/>
 
-# Header 1
-## Header 2
-### Header 3
+<http://homehelp.accountz.com/>
 
-- Bulleted
-- List
+If you would like information regarding the forthcoming Open Source version (not owned or associated to Accountz.com Ltd), please see here: 
 
-1. Numbered
-2. List
+*The Accountz Team*
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Accountz-DEV/Accountz.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
