@@ -8,9 +8,9 @@ We are no longer able to take telephone calls, if you have any queries please em
 
 The copy of the oryginal help guides are available here:
 
-* [Business Accountz](https://accountz-dev.github.io/businesshelp/)
+* [Business Accountz](https://accountz-open.github.io/businesshelp/)
 
-* [Home Accountz](https://accountz-dev.github.io/homehelp/)
+* [Home Accountz](https://accountz-open.github.io/homehelp/)
 
 If you would like information regarding the forthcoming **Open Source version** (not owned or associated to Accountz.com Ltd), please go to <https://accountz.org/> 
 
