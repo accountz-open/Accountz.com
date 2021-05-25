@@ -6,11 +6,11 @@ Should you need to re-install your existing software (Home Accountz V3, Startup 
 
 We are no longer able to take telephone calls, if you have any queries please email support@accountz.com prior to 16/07/2021.
 
-Help guides are available here until 16/07/2021 at that point the pages will be retired and no longer available.
+The copy of the oryginal help guides are available here:
 
-<https://accountz-dev.github.io/businesshelp/>
+* [Business Accountz](https://accountz-dev.github.io/businesshelp/)
 
-<https://accountz-dev.github.io/homehelp/>
+* [Home Accountz](https://accountz-dev.github.io/homehelp/)
 
 If you would like information regarding the forthcoming **Open Source version** (not owned or associated to Accountz.com Ltd), please see go to <https://accountz.org/> 
 
