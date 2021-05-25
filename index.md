@@ -8,9 +8,9 @@ We are no longer able to take telephone calls, if you have any queries please em
 
 Help guides are available here until 16/07/2021 at that point the pages will be retired and no longer available.
 
-<http://businesshelp.accountz.com/>
+<https://accountz-dev.github.io/businesshelp/>
 
-<http://homehelp.accountz.com/>
+<https://accountz-dev.github.io/homehelp/>
 
 If you would like information regarding the forthcoming **Open Source version** (not owned or associated to Accountz.com Ltd), please see go to <https://accountz.org/> 
 
