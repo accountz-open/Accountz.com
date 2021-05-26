@@ -1,4 +1,4 @@
-**Sadly [Accountz.com Ltd](history.md) has now ceased trading.**
+**Sadly [Accountz.com Ltd](history.md) is closing on 16/07/2021.**
 
 Should you need to re-install your existing software (Home Accountz V3, Startup Kit, Startup Kit+VAT or Business Suite), below is the link to the installers:
 
