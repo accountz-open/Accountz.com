@@ -1,7 +1,7 @@
-**Sadly [Accountz.com Ltd](history.md) is closing on 16/07/2021.**
+**Sadly after long [history](history.md) Accountz.com Ltd is closing on 16/07/2021.**
 
 Should you need to re-install your existing software (Home Accountz V3, Startup Kit, Startup Kit+VAT or Business Suite), 
-lease go to the **[installers page](./installers.md)**.
+please go to the **[installers page](./installers.md)**.
 
 We are no longer able to take telephone calls, if you have any queries please email support@accountz.com prior to 16/07/2021.
 
