@@ -14,9 +14,9 @@ To install please download one appropriate for your operating system and follow 
 
 ### Business Accountz 
  
-* [Mac](https://s3-eu-west-1.amazonaws.com/download.accountz.co.uk/business/install_business_accountz_v3.dmg) 
-* [Windows 64bit](https://s3-eu-west-1.amazonaws.com/download.accountz.co.uk/business/install_business_accountz_v3_win_64bit.exe)
-* [Windows 32bit](https://s3-eu-west-1.amazonaws.com/download.accountz.co.uk/business/install_business_accountz_v3_win.exe) 
-* [Linux](https://s3-eu-west-1.amazonaws.com/download.accountz.co.uk/business/install_business_accountz_v3_linux.sh)
+* [Mac](https://accountz-open.github.io/download/business/install_business_accountz_v3.dmg) 
+* [Windows 64bit](https://accountz-open.github.io/download/business/install_business_accountz_v3_win_64bit.exe)
+* [Windows 32bit](https://accountz-open.github.io/download/business/install_business_accountz_v3_win.exe) 
+* [Linux](https://accountz-open.github.io/download/business/install_business_accountz_v3_linux.sh)
  
 
