@@ -23,7 +23,7 @@ Home Accountz V3 has always made backups every 30 minutes whilst using the appli
 Yes, you can change the backup path by going to Help > About > Arguments > backup-dir and entering the backup location here.  
 **PLEASE NOTE, If you remove the external drive / memory stick you may have it configured to, the backups will fail!**
 
-![About > backup-dir](about-backup-window.png)
+![About > backup-dir](about-backup.png)
 
 
 ### Can I use an alternative backup solution?
