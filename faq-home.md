@@ -56,8 +56,8 @@ This is a difficult one! Especially after we spent a couple of years developing 
 Below are instructions on how to restore if you are transferring the program to another computer, follow steps 1-4.   
 If you need to reinstall the program on your existing computer follow steps 2-3.
 
-1. To move Home Accountz onto another computer you will need to move the latest backup to the other machine. Please see this thread for full details:  
-  <http://homehelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html>
+1. To move Home Accountz onto another computer you will need to move the latest backup to the other machine. Please see this thread for full details.   
+   <http://homehelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html>
 2. Install the program from here:    
    <http://download.accountz.co.uk/home_accountz_installers.html>
 3. Home Accountz should open once you finish the installation. If not, run the program by double clicking the V3 icon on your desktop. 
