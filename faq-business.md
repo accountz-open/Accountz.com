@@ -50,7 +50,21 @@ As this is all part of the Online Services subscription, again, this synchronisa
 This is a difficult one! Every user has had different requirements and used different elements of our software. There are many solutions out there at different price points. However, there is no reason to stop using Business Accountz though! We have given the software away for free and it’s going to be picked up by a former employee and become Open Source (not affiliated with Accountz.com)
 
 
+### How to do transferring to another computer or re-installing?
 
+Below are instructions on how to restore if you are transferring the program to another computer, follow steps 1-3.   
+If you need to reinstall the program on your existing computer just follow step 2 and if required step 3.
+
+
+1. To move Business Accountz onto another computer you will need to move the latest backup to the other machine. Please see this thread for full details:  
+  http://businesshelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html
+2. Download Business Accountz onto the new computer from here:  
+  http://download.accountz.co.uk/business_accountz_installers.html
+3. Restore your data:  
+  http://businesshelp.accountz.com/restore_a_backup.html
+
+
+Please be aware that only one person at any one time can use Business Accountz.
 
 
 
