@@ -51,7 +51,21 @@ As this is all part of the Online Services subscription, again, this synchronisa
 This is a difficult one! Especially after we spent a couple of years developing an amazing online product and had to shelve it after surveying our customers who, too many of which were unwilling to pay a subscription. Every user has had different requirements and used different elements of our software. There are many solutions out there at different price points. However, there is no reason to stop using Home Accountz though! We have given the software away for free and it’s going to be picked up by a former employee and become Open Source (not affiliated with Accountz.com)
 
 
+### How to do transferring to another computer or re-installing?
 
+Below are instructions on how to restore if you are transferring the program to another computer, follow steps 1-4.   
+If you need to reinstall the program on your existing computer follow steps 2-3.
+
+1. To move Home Accountz onto another computer you will need to move the latest backup to the other machine. Please see this thread for full details:  
+ http://homehelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html
+2. Install the program from here:    
+   http://download.accountz.co.uk/home_accountz_installers.html
+3. Home Accountz should open once you finish the installation. If not, run the program by double clicking the V3 icon on your desktop. 
+4. You will need to restore your data by navigating to File > Restore a Backup. Please see this link:  
+http://homehelp.accountz.com/how_to_restore_a_backup_from_memory_stick.html
+
+
+Please be aware that only one person at any one time can use the Home Accountz file.
 
 
 
