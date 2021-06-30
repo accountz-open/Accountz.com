@@ -57,11 +57,11 @@ If you need to reinstall the program on your existing computer just follow step 
 
 
 1. To move Business Accountz onto another computer you will need to move the latest backup to the other machine. Please see this thread for full details:  
-  <http://businesshelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html>
+   <http://businesshelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html>
 2. Download Business Accountz onto the new computer from here:  
-  <http://download.accountz.co.uk/business_accountz_installers.html>
+   <http://download.accountz.co.uk/business_accountz_installers.html>
 3. Restore your data:  
-  <http://businesshelp.accountz.com/restore_a_backup.html>
+   <http://businesshelp.accountz.com/restore_a_backup.html>
 
 
 Please be aware that only one person at any one time can use Business Accountz.
