@@ -3,10 +3,10 @@
 Business Accountz requires **Oracle Java 8** (not Open JDK) in order to run. 
 
 1. Download the correct Java for your operating system:   
-    https://www.oracle.com/java/technologies/javase-jre8-downloads.html
+   <https://www.oracle.com/java/technologies/javase-jre8-downloads.html>
 3. Follow the instructions to install Java
 4. Download the program from here:   
-   https://accountz-open.github.io/download/business/baz_210701.zip
+   <https://accountz-open.github.io/download/business/baz_210701.zip>
 5. Open the zipped folder you just downloaded
 6. Drag the baz folder onto your desktop
 7. Open the bin folder
