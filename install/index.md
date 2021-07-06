@@ -10,8 +10,3 @@
 * [Business Accountz](install-baz)
 
 
-### Graphical software installers:
-(this installers may stop working after 31/07/2021)   
-
-* [Home Accountz](i4j-haz)
-* [Business Accountz](i4j-baz)
