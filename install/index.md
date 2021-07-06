@@ -1,17 +1,17 @@
 ## Installers and Upgrades
 
-### Manual sofrware upgrades:
+### Manual softrware upgrades:
 * [Home Accountz](update-haz)
-* [Busines Accountz](update-baz)
+* [Business Accountz](update-baz)
 
 
-### Manual sofrware installers:
+### Manual softrware installers:
 * [Home Accountz](install-haz)
-* [Busines Accountz](install-baz)
+* [Business Accountz](install-baz)
 
 
 ### Graphical software installers:
 (this installers may stop working after 31/07/2021)   
 
 * [Home Accountz](i4j-haz)
-* [Busines Accountz](i4j-baz)
+* [Business Accountz](i4j-baz)
