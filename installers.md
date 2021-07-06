@@ -1,6 +1,6 @@
 ## Installers
 
-In the links below you can find the latest version (21.05.12) of Accountz.com installers.
+In the links below you can find the latest version (21.06.02) of Accountz.com installers.
 
 To install please download one appropriate for your operating system and follow the on-screen instruction.
 
