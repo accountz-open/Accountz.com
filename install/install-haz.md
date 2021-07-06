@@ -6,7 +6,7 @@ Home Accountz requires **Oracle Java 8** (not Open JDK) in order to run.
    <https://www.oracle.com/java/technologies/javase-jre8-downloads.html>
 3. Follow the instructions to install Java
 4. Download the program from here:   
-   <https://accountz-open.github.io/download/home/home_210701.zip>
+   <https://github.com/accountz-open/download/releases/download/beta_21.07.06/install_home_210706.zip>
 5. Open the zipped folder you just downloaded
 6. Drag the `haz` folder onto your desktop
 7. Open the `bin` folder
