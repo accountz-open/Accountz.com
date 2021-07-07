@@ -2,7 +2,7 @@
 
 1. Close Home Accountz
 2. Download the zipped folder from here:    
-   <https://github.com/accountz-open/download/releases/download/beta_21.07.06/home_lib_210706.zip>   
+   <https://github.com/accountz-open/download/releases/download/beta_21.07.07/home_lib_210707.zip>   
 3. Open the zipped folder named `upgrade_home_210701`
 4. Drag the `lib_210701` folder into the Home_Accountz_v3 installation folder    
    Installation folders depend on your computer    
