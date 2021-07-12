@@ -1,4 +1,4 @@
-## How to install Home
+## How to install Home on Windows
 
 Home Accountz requires **Oracle Java 8** (not Open JDK) in order to run. 
 
