@@ -24,7 +24,7 @@ Business Accountz requires **Oracle Java 8** (not Open JDK) in order to run.
 
    ![confirm security windows](confirm-security-win.jpg)
    
-9. Double click runWin again to open Business Accountz
+9. Double click `runWin` again to open Business Accountz
 9. To run the program each time go back to step 6. Or you could create a shortcut of the `runWin.bat`
 
 For the more advanced see this article: <https://www.windowscentral.com/how-create-and-run-batch-file-windows-10>
