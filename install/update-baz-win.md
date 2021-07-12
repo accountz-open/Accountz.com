@@ -1,4 +1,6 @@
-## How to update BAZ
+## How to update BAZ on Windows
+
+**NOTE**: images may differ from lib folder name
 
 1. Close Business Accountz    
 2. Download the zipped folder from here:      
