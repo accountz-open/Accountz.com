@@ -29,7 +29,9 @@ For the more advanced see this article: <https://www.windowscentral.com/how-crea
 
 If you have a Home Accountz backup go to File > Restore a backup and select your backup file.
 
-Please see this thread for details on how to **make a backup**.
+By default backups are saved in the BAK folder.
+
+Please see this thread for details on how to **make a backup** on a USB.
 <http://homehelp.accountz.com/how_to_make_a_backup_on_a_memory_stick.html>
 
 To restore your data by navigating to File > **Restore a Backup**. Please see this link:
