@@ -25,7 +25,7 @@ Home Accountz requires **Oracle Java 8** (not Open JDK) in order to run.
 
    ![confirm security](confirm-security.jpg)
    
-9. To run the program each time go back to step 4. Or you could create a shortcut of the `runMac`
+9. To run the program each time go back to step 3. Or you could create a shortcut of the `runMac`
 
 If you have a Home Accountz backup go to File> Restore a backup and select your backup file.
 
