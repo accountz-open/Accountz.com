@@ -4,8 +4,8 @@
 
 1. Close Business Accountz
 2. Download the zipped folder from here:    
-   <https://github.com/accountz-open/download/releases/download/beta_21.07.09/home_lib_210709.zip>   
-3. Open the zipped folder named `home_lib_210709`
+   <https://github.com/accountz-open/download/releases/download/beta_21.07.09/baz_lib_210709.zip>   
+3. Open the zipped folder named `baz_lib_210709`
 4. Drag **ONLY** the `lib_210709` folder into the Business_Accountz_v3 installation folder   
   
    `Applications/Business_Accountz_v3`  
