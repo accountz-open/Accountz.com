@@ -12,5 +12,9 @@ The copy of the original help guides are available here:
 
 If you would like information regarding the forthcoming **Open Source** version (not owned or associated to Accountz.com Ltd), please go to **<https://accountz.org/>**
 
+The latest version has been released (21.07.19) in your installation of Home/Business Accountz please go to Help> Check for update and install. 
+
+If the program states there are no updates available please manually update your software by following the instructions on this link: **<http://accountz.com/install/>**
+
 *The Accountz Team*
 
