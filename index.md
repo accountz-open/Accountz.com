@@ -1,4 +1,4 @@
-**Sadly after a long [history](history.md), Accountz.com Ltd is closing on 16/07/2021.**
+**Sadly after a long [history](history.md), Accountz.com Ltd has closed.**
 
 Should you need to re-install your existing software (Home Accountz V3, Startup Kit, Startup Kit+VAT or Business Suite), 
 please go to the **[installers page](./installers.md)**.
@@ -11,9 +11,9 @@ The copy of the original help guides are available here:
 
 If you would like information regarding the forthcoming **Open Source** version (not owned or associated to Accountz.com Ltd), please go to **<https://accountz.org/>**
 
-The latest version has been released (21.07.19) in your installation of Home/Business Accountz please go to Help> Check for update and install. 
+The latest version has been released (21.07.19). In your installation of Home/Business Accountz please go to Help > Check for update and install. 
 
-If the program states there are no updates available please manually update your software by following the instructions on this link: **<http://accountz.com/install/>**
+If the program states there are no updates available please manually update your software by following the instructions on this link: **<https://accountz.com/install/>**
 
 *The Accountz Team*
 
