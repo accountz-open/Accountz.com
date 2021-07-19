@@ -1,7 +1,7 @@
 **Sadly after a long [history](history.md), Accountz.com Ltd has closed.**
 
 Should you need to re-install your existing software (Home Accountz V3, Startup Kit, Startup Kit+VAT or Business Suite), 
-please go to the **[installers page](./installers.md)**.
+please go to the **[installers page](./install/)**.
 
 Please visit **[Home FAQ](faq-home.md)** and **[Business FAQ](faq-business.md)** pages to find the answer to the most common questions.
 
