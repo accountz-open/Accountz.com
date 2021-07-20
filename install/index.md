@@ -1,6 +1,6 @@
-## Installers and Upgrades
+## Installers and Updates
 
-### Manual software upgrades:
+### Manual software updates:
 * [Home Accountz](update-haz-mac) on Mac 
 * [Home Accountz](update-haz-win) on Windows
     
